@@ -1,7 +1,6 @@
 # Hi, I'm Henrique 👋
 
-Junior QA professional with a foundation in manual testing, test case design, bug reporting, and quality mindset.
-Currently focused on building practical experience to apply for Junior QA roles, with growing interest in Information Security and Generative AI.
+Junior Information Security professional with a background in software quality and analytical problem-solving. Developing practical skills in security monitoring, incident investigation, and vulnerability awareness. Passionate about cybersecurity, continuous learning, and the application of Generative AI in security operations.
 
 ---
 
