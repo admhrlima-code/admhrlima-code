@@ -5,12 +5,13 @@ Junior Information Security professional with a background in software quality a
 ---
 
 ## 🎯 Career Focus
-- Junior QA / QA Analyst
-- Manual Testing
-- Jira Test Management
-- Software Quality Fundamentals
+
 - Junior Cybersecurity Analyst
 - Junior AI Agent Developer
+- Manual Testing
+- Junior QA / QA Analyst
+- Jira Test Management
+- Software Quality Fundamentals
 
 ---
 
